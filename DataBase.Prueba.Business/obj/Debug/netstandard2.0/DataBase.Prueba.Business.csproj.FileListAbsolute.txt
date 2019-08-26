@@ -1,0 +1,16 @@
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\DataBase.Prueba.Business.deps.json
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\DataBase.Prueba.Business.dll
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\DataBase.Prueba.Business.pdb
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\DataBase.Prueba.Entities.dll
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\DataBase.Prueba.Entities.pdb
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\obj\Debug\netstandard2.0\DataBase.Prueba.Business.csprojAssemblyReference.cache
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\obj\Debug\netstandard2.0\DataBase.Prueba.Business.csproj.CoreCompileInputs.cache
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\obj\Debug\netstandard2.0\DataBase.Prueba.Business.AssemblyInfoInputs.cache
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\obj\Debug\netstandard2.0\DataBase.Prueba.Business.AssemblyInfo.cs
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\obj\Debug\netstandard2.0\DataBase.Prueba.Business.csproj.CopyComplete
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\obj\Debug\netstandard2.0\DataBase.Prueba.Business.dll
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Business\obj\Debug\netstandard2.0\DataBase.Prueba.Business.pdb

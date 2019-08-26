@@ -1,0 +1,9 @@
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\bin\Debug\netstandard2.0\DataBase.Prueba.Entities.deps.json
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\bin\Debug\netstandard2.0\DataBase.Prueba.Entities.dll
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\bin\Debug\netstandard2.0\DataBase.Prueba.Entities.pdb
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\obj\Debug\netstandard2.0\DataBase.Prueba.Entities.csprojAssemblyReference.cache
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\obj\Debug\netstandard2.0\DataBase.Prueba.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\obj\Debug\netstandard2.0\DataBase.Prueba.Entities.AssemblyInfoInputs.cache
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\obj\Debug\netstandard2.0\DataBase.Prueba.Entities.AssemblyInfo.cs
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\obj\Debug\netstandard2.0\DataBase.Prueba.Entities.dll
+C:\Users\Juan F\Documents\C#\WebApi\DataBase.Prueba.Entities\obj\Debug\netstandard2.0\DataBase.Prueba.Entities.pdb
